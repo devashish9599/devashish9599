@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there i am working on 👋
 
-<!--
-**devashish9599/devashish9599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
